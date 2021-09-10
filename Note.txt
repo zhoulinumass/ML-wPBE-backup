@@ -1,0 +1,3 @@
+In the cases when PaDEL fails to generate molecular fingerprints, please try try.py.
+If try.py still fails, remove these molecules. 
+Simplified scripts that do not require PaDEL-generated molecular fingerprints will be provided as an updated version in the near future.
